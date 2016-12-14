@@ -2,7 +2,7 @@
 	1336289
 	DXA390
 	Exercise 2
-	A program that converts masses given in the imperial system into kilograms
+	A program that converts masses in the imperial system into kilograms
 */
 
 public class Ex2
